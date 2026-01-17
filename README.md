@@ -126,15 +126,24 @@ Token bucket based distributed rate limiter
 
 ---
 
-### 🟤 CodeChef Stats
+### 🟤 CodeChef Profile
 
 <p align="center">
-  <img src="https://cp-logo.vercel.app/codechef/singhprajjawal" />
-  <br><br>
-  <a href="https://www.codechef.com/users/singhprajjawal">
-    <img src="https://img.shields.io/badge/View%20Profile-CodeChef-brown?style=for-the-badge&logo=codechef">
+  <img src="https://img.shields.io/badge/Platform-CodeChef-brown?style=for-the-badge&logo=codechef">
+  <img src="https://img.shields.io/badge/Username-singhprajjawal-grey?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Rating-1922-brightgreen?style=for-the-badge">
+</p>
+
+<p align="center">
+  <a href="https://www.codechef.com/users/singhprajjawal" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20CodeChef%20Profile-brown?style=for-the-badge&logo=codechef&logoColor=white">
   </a>
 </p>
+
+<p align="center">
+  ⭐ Competitive Programmer on CodeChef with strong problem-solving background and contest experience
+</p>
+
 
 ---
 
