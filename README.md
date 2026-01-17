@@ -6,7 +6,7 @@
 <br/><br/>
 
 <!-- Live profession typing -->
-<img src="https://readme-typing-svg.demolab.com?font=Inter&size=26&duration=2500&pause=600&color=38BDF8&center=true&vCenter=true&width=800&lines=Backend+Engineer;Distributed+Systems+Developer;Data+Engineering+Enthusiast;Django+%7C+Kafka+%7C+ClickHouse+%7C+PostgreSQL;NIT+Trichy+%2725" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=26&duration=2500&pause=600&color=38BDF8&center=true&vCenter=true&width=800&lines=Backend+Engineer;Distributed+Systems+Developer;Django+%7C+Kafka+%7C+ClickHouse+%7C+PostgreSQL;NIT+Trichy+%2725" />
 
 <br/><br/>
 
