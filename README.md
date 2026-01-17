@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi 👋, I'm Prajjawal Singh
 
-<!--
-**Prajjawalsingh87/Prajjawalsingh87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Backend Developer | Django | Kafka | Databases | Distributed Systems
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+- Backend developer working with Django & REST APIs  
+- Experience with Kafka, ClickHouse, PostgreSQL, Redis  
+- Interested in distributed systems & system design  
+- Final year student @ NIT Trichy  
+
+---
+
+### 🛠 Tech Stack
+![Python](https://img.shields.io/badge/Python-blue)
+![Django](https://img.shields.io/badge/Django-green)
+![Kafka](https://img.shields.io/badge/Kafka-black)
+![PostgreSQL](https://img.shields.io/badge/Postgres-blue)
+![Docker](https://img.shields.io/badge/Docker-blue)
+
+---
+
+### 📌 Featured Projects
+- 🔹 **Assam Aspiration Backend** – scalable backend system  
+- 🔹 **LMS Backend** – REST APIs, authentication, DB design  
+- 🔹 **Node MySQL App**
+
+---
+
+### 📫 Contact
+- LinkedIn: your link  
+- Email: your email
