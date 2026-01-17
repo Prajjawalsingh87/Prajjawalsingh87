@@ -75,7 +75,7 @@ Token bucket based distributed rate limiter
 
 ---
 
-## 💻 Coding Profiles
+## 💻 Coding Profiles & Stats
 
 <p align="center">
   <a href="https://leetcode.com/u/sprajjawalsingh/" target="_blank">
@@ -89,10 +89,28 @@ Token bucket based distributed rate limiter
   </a>
 </p>
 
-### 📊 LeetCode Stats
+---
+
+### 🟡 LeetCode Stats
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/sprajjawalsingh?theme=dark&font=Baloo&ext=contest" />
+</p>
+
+---
+
+### 🔵 Codeforces Stats
+
+<p align="center">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=singhprajjawal87&theme=tokyonight" />
+</p>
+
+---
+
+### 🟤 CodeChef Stats
+
+<p align="center">
+  <img src="https://cp-logo.vercel.app/codechef/singhprajjawal" />
 </p>
 
 ---
