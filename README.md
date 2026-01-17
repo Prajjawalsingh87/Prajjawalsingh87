@@ -40,15 +40,6 @@
 
 </div>
 
-<hr>
-<hr>
-
-<h2 align="center">Hi 👋, I'm Prajjawal Singh</h2>
-
-<p align="center">
-Backend Developer | Distributed Systems | NIT Trichy '25
-</p>
-
 ---
 
 ## 🚀 About Me
