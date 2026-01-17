@@ -41,38 +41,6 @@
 </div>
 
 <hr>
-
-
-<!-- Live counters -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Prajjawalsingh87&label=Profile%20Views&color=blue&style=flat-square"/>
-  <img src="https://img.shields.io/github/followers/Prajjawalsingh87?label=Followers&style=flat-square"/>
-  <img src="https://img.shields.io/github/stars/Prajjawalsingh87?label=Stars&style=flat-square"/>
-</p>
-
-<!-- Tech stack badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Kafka-black?logo=apachekafka&style=flat-square">
-  <img src="https://img.shields.io/badge/ClickHouse-yellow?style=flat-square">
-  <img src="https://img.shields.io/badge/Django-092E20?logo=django&style=flat-square">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&style=flat-square">
-</p>
-
-<!-- Social -->
-<p align="center">
-  <a href="https://linkedin.com/in/prajjawal-singh-1723621ab">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square">
-  </a>
-  <a href="https://leetcode.com/u/sprajjawalsingh/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode&style=flat-square">
-  </a>
-  <a href="https://codeforces.com/profile/singhprajjawal87">
-    <img src="https://img.shields.io/badge/Codeforces-Profile-blue?logo=codeforces&style=flat-square">
-  </a>
-</p>
-
-</div>
-
 <hr>
 
 <h2 align="center">Hi 👋, I'm Prajjawal Singh</h2>
