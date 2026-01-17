@@ -111,6 +111,10 @@ Token bucket based distributed rate limiter
 
 <p align="center">
   <img src="https://cp-logo.vercel.app/codechef/singhprajjawal" />
+  <br><br>
+  <a href="https://www.codechef.com/users/singhprajjawal">
+    <img src="https://img.shields.io/badge/View%20Profile-CodeChef-brown?style=for-the-badge&logo=codechef">
+  </a>
 </p>
 
 ---
