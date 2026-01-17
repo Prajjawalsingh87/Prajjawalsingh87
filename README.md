@@ -113,16 +113,12 @@ Token bucket based distributed rate limiter
 
   <a href="https://www.codechef.com/users/singhprajjawal" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-1922%20Rating-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-    <br/>
-    <img src="https://img.shields.io/badge/singhprajjawal-profile-brown?style=for-the-badge"/>
+  </a>
+
+  <a href="https://atcoder.jp/users/PRAJJAWAL302050" target="_blank">
+    <img src="https://img.shields.io/badge/AtCoder-Profile-1f8acb?style=for-the-badge"/>
   </a>
 </p>
-
-<p align="center">
-  🟡 LeetCode &nbsp;&nbsp; | &nbsp;&nbsp; 🔵 Codeforces (Specialist) &nbsp;&nbsp; | &nbsp;&nbsp; 🟤 CodeChef (1922)
-</p>
-
-<hr>
 
 ## 📊 GitHub Stats
 
