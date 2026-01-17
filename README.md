@@ -1,27 +1,31 @@
+
+
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=140&text=Prajjawal%20Singh&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Backend%20Engineer%20%7C%20Distributed%20Systems%20%7C%20NIT%20Trichy%20%2725&descAlignY=70"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:0f2027,50:203a43,100:2c5364&text=Prajjawal%20Singh&fontSize=46&fontColor=ffffff&animation=fadeIn&desc=Backend%20Engineer%20%7C%20Distributed%20Systems%20%7C%20NIT%20Trichy%20%2725&descAlignY=68"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Kafka-Streaming-black?style=flat-square&logo=apachekafka">
-  <img src="https://img.shields.io/badge/ClickHouse-Analytics-yellow?style=flat-square">
-  <img src="https://img.shields.io/badge/Django-Backend-green?style=flat-square&logo=django">
-  <img src="https://img.shields.io/badge/PostgreSQL-Database-blue?style=flat-square&logo=postgresql">
+  <img src="https://img.shields.io/badge/Kafka-black?logo=apachekafka&style=flat">
+  <img src="https://img.shields.io/badge/ClickHouse-yellow?style=flat">
+  <img src="https://img.shields.io/badge/Django-092E20?logo=django&style=flat">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&style=flat">
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/prajjawal-singh-1723621ab">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat">
   </a>
   <a href="https://leetcode.com/u/sprajjawalsingh/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=flat-square&logo=leetcode">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black&style=flat">
   </a>
   <a href="https://codeforces.com/profile/singhprajjawal87">
-    <img src="https://img.shields.io/badge/Codeforces-Profile-blue?style=flat-square&logo=codeforces">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?logo=codeforces&logoColor=white&style=flat">
   </a>
 </p>
 
-<hr style="border:0.5px solid #333;">
+<hr>
+
 
 
 <h2 align="center">Hi 👋, I'm Prajjawal Singh</h2>
