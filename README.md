@@ -1,87 +1,108 @@
-<h1 align="center">Hi 👋, I'm Prajjawal Singh</h1>
-<h3 align="center">Backend Developer | Distributed Systems | Databases | NIT Trichy '25</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Prajjawal%20Singh&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Backend%20Engineer%20|%20Distributed%20Systems%20%26%20Data%20Infrastructure&descAlignY=70"/>
+</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/prajjawal-singh-1723621ab/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin">
-  </a>
-  <a href="mailto:singhprajjawal87@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?logo=gmail">
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Prajjawalsingh87&label=Profile%20Views&color=blue" />
+  <img src="https://img.shields.io/badge/Kafka-black?logo=apachekafka">
+  <img src="https://img.shields.io/badge/ClickHouse-yellow">
+  <img src="https://img.shields.io/badge/Django-green?logo=django">
+  <img src="https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql">
+</p>
+
+<h2 align="center">Hi 👋, I'm Prajjawal Singh</h2>
+
+<p align="center">
+Backend Developer | Distributed Systems | NIT Trichy '25
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I'm a **Backend Developer** passionate about building **scalable, reliable, and high-performance systems**.
-
-- 🧠 Strong in **Django, REST APIs, Kafka, Databases**
-- ⚙️ Hands-on with **ClickHouse, PostgreSQL, Redis**
-- 📐 Love **system design & distributed systems**
-- 🎓 Final year student at **NIT Trichy (2025)**
-- 💡 Enjoy solving backend performance & data problems
+- 🧑‍💻 Backend engineer building scalable & reliable systems  
+- ⚡ Strong in **Django, REST APIs, Kafka, Databases**  
+- 🗄 Hands-on with **ClickHouse, PostgreSQL, Redis**  
+- 🧠 Love system design & performance optimization  
+- 🎓 Final year student at **NIT Trichy (2025)**  
 
 ---
 
 ## 🛠 Tech Stack
 
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+### Languages
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+
+### Backend
+![Django](https://img.shields.io/badge/Django-green?logo=django)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688)
+![REST](https://img.shields.io/badge/REST-API-blue)
 
 ### Databases & Messaging
-![Postgres](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01)
-![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-000000?logo=apachekafka)
+![Postgres](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-orange?logo=mysql)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-yellow)
+![Redis](https://img.shields.io/badge/Redis-red?logo=redis)
+![Kafka](https://img.shields.io/badge/Kafka-black?logo=apachekafka)
 
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+### DevOps & Observability
+![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
+![Git](https://img.shields.io/badge/Git-orange?logo=git)
+![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
+![Prometheus](https://img.shields.io/badge/Prometheus-orange)
+![Grafana](https://img.shields.io/badge/Grafana-yellow)
 
 ---
 
 ## 📌 Featured Projects
 
-🚀 **Assam Aspiration Backend**  
-> Large-scale backend system with APIs, authentication, and optimized DB design
+### 🚀 Distributed Event Processing Platform
+High-throughput Kafka based pipeline for real-time processing  
+**Tech:** Kafka, Django, PostgreSQL, Redis
 
-📚 **LMS Backend System**  
-> Role-based access, REST APIs, PostgreSQL, scalable architecture
+### 📊 Real-Time Analytics Engine
+ClickHouse powered analytics backend  
+**Tech:** ClickHouse, FastAPI
 
-🗄 **Node MySQL Application**  
-> CRUD APIs, structured DB schema, backend best practices
+### 🧠 College Name Matching System
+High accuracy fuzzy matching engine  
+**Tech:** Python, Pandas, RapidFuzz
+
+### ⚙ Distributed Rate Limiter
+Token bucket based distributed rate limiter  
+**Tech:** Redis, Lua, Python
+
+---
+
+## 💻 Coding Profiles
+
+- LeetCode: https://leetcode.com/u/sprajjawalsingh  
+- Codeforces: https://codeforces.com/profile/singhprajjawal87  
+- CodeChef: https://www.codechef.com/users/singhprajjawal  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prajjawalsingh87&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prajjawalsingh87&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Prajjawalsingh87&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajjawalsingh87&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
 ---
 
-## 🎯 Currently Learning
+## 📫 Contact
 
-- Advanced **Kafka & event-driven systems**
-- **System design interviews**
-- Backend performance optimization
-- Cloud deployment (Docker + CI/CD)
+- LinkedIn: https://linkedin.com/in/prajjawal-singh-1723621ab  
+- Email: your_email@gmail.com  
 
 ---
 
-## 🤝 Let's Connect
+<p align="center">
+  ⭐ If you like my work, consider starring my repositories!
+</p>
 
-- 💼 LinkedIn: https://www.linkedin.com/in/prajjawal-singh-1723621ab/
-- 📧 Email: singhprajjawal87@gmail.com
-
----
-
-⭐ *If you like my work, consider starring my repositories!*
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+</p>
