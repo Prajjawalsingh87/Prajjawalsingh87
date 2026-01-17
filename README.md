@@ -159,3 +159,44 @@ Token bucket based distributed rate limiter
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
 </p>
+
+## 🧩 Project Categories
+
+### 🟢 Beginner Projects
+
+- 🔐 **Password Generator (React + Vite)**  
+  https://github.com/prajjawalsingh87/password-generator
+
+- 🎨 **Background Color Changer (React)**  
+  https://github.com/prajjawalsingh87/backgroundcolorchanger
+
+- ✅ **TODO App (JavaScript)**  
+  https://github.com/prajjawalsingh87/TODO
+
+
+---
+
+### 🟡 Medium Projects
+
+- 💱 **Real-time Currency Converter (API based)**  
+  https://github.com/prajjawalsingh87/real-time-currencyconverter
+
+- 📝 **NoteVault (React App)**  
+  https://github.com/prajjawalsingh87/NoteVault
+
+- ⚛ **React Practice / YT Clone**  
+  https://github.com/prajjawalsingh87/React_yt
+
+
+---
+
+### 🔴 Hard / Advanced Projects
+
+- 🧵 **Distributed Rate Limiter (Redis + Lua + Python)**
+
+- ⚡ **High Accuracy Fuzzy Matching Engine (Pandas + RapidFuzz)**
+
+- 💬 **Social Media Application (Full Stack)**
+
+- 🧩 **MERN Stack Project**
+
