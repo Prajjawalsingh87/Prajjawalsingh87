@@ -29,5 +29,5 @@
 ---
 
 ### 📫 Contact
-- LinkedIn: your link  
-- Email: your email
+- LinkedIn: https://www.linkedin.com/in/prajjawal-singh-1723621ab/
+- Email: singhprajjawal87@gmail.com
