@@ -77,9 +77,23 @@ Token bucket based distributed rate limiter
 
 ## 💻 Coding Profiles
 
-- LeetCode: https://leetcode.com/u/sprajjawalsingh  
-- Codeforces: https://codeforces.com/profile/singhprajjawal87  
-- CodeChef: https://www.codechef.com/users/singhprajjawal  
+<p align="center">
+  <a href="https://leetcode.com/u/sprajjawalsingh/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode">
+  </a>
+  <a href="https://codeforces.com/profile/singhprajjawal87" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-Profile-blue?style=for-the-badge&logo=codeforces">
+  </a>
+  <a href="https://www.codechef.com/users/singhprajjawal" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-Profile-brown?style=for-the-badge&logo=codechef">
+  </a>
+</p>
+
+### 📊 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/sprajjawalsingh?theme=dark&font=Baloo&ext=contest" />
+</p>
 
 ---
 
