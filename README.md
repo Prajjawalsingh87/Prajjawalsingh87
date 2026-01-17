@@ -93,6 +93,30 @@ Token bucket based distributed rate limiter
 **Tech:** Redis, Lua, Python
 
 ---
+## 💻 Coding Profiles & Competitive Stats
+
+<p align="center">
+  <a href="https://leetcode.com/u/sprajjawalsingh/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/sprajjawalsingh?theme=dark&font=Baloo&ext=contest" height="180"/>
+  </a>
+
+  <a href="https://codeforces.com/profile/singhprajjawal87" target="_blank">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=singhprajjawal87&theme=tokyonight" height="180"/>
+  </a>
+
+  <a href="https://www.codechef.com/users/singhprajjawal" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-Rating%201922-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+    <br/>
+    <img src="https://img.shields.io/badge/singhprajjawal-profile-brown?style=for-the-badge"/>
+  </a>
+</p>
+
+<p align="center">
+  🟡 LeetCode &nbsp;&nbsp; | &nbsp;&nbsp; 🔵 Codeforces (Specialist) &nbsp;&nbsp; | &nbsp;&nbsp; 🟤 CodeChef (1922)
+</p>
+
+<hr>
+
 
 ## 💻 Coding Profiles & Stats
 
