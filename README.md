@@ -1,6 +1,3 @@
-
-
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:0f2027,50:203a43,100:2c5364&text=Prajjawal%20Singh&fontSize=46&fontColor=ffffff&animation=fadeIn&desc=Backend%20Engineer%20%7C%20Distributed%20Systems%20%7C%20NIT%20Trichy%20%2725&descAlignY=68"/>
 </p>
@@ -25,8 +22,6 @@
 </p>
 
 <hr>
-
-
 
 <h2 align="center">Hi 👋, I'm Prajjawal Singh</h2>
 
@@ -93,6 +88,7 @@ Token bucket based distributed rate limiter
 **Tech:** Redis, Lua, Python
 
 ---
+
 ## 💻 Coding Profiles & Competitive Stats
 
 <p align="center">
@@ -105,7 +101,7 @@ Token bucket based distributed rate limiter
   </a>
 
   <a href="https://www.codechef.com/users/singhprajjawal" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-Rating%201922-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CodeChef-1922%20Rating-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
     <br/>
     <img src="https://img.shields.io/badge/singhprajjawal-profile-brown?style=for-the-badge"/>
   </a>
@@ -116,60 +112,6 @@ Token bucket based distributed rate limiter
 </p>
 
 <hr>
-
-
-## 💻 Coding Profiles & Stats
-
-<p align="center">
-  <a href="https://leetcode.com/u/sprajjawalsingh/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode">
-  </a>
-  <a href="https://codeforces.com/profile/singhprajjawal87" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-Profile-blue?style=for-the-badge&logo=codeforces">
-  </a>
-  <a href="https://www.codechef.com/users/singhprajjawal" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-Profile-brown?style=for-the-badge&logo=codechef">
-  </a>
-</p>
-
----
-
-### 🟡 LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/sprajjawalsingh?theme=dark&font=Baloo&ext=contest" />
-</p>
-
----
-
-### 🔵 Codeforces Stats
-
-<p align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=singhprajjawal87&theme=tokyonight" />
-</p>
-
----
-
-### 🟤 CodeChef Profile
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Platform-CodeChef-brown?style=for-the-badge&logo=codechef">
-  <img src="https://img.shields.io/badge/Username-singhprajjawal-grey?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Rating-1922-brightgreen?style=for-the-badge">
-</p>
-
-<p align="center">
-  <a href="https://www.codechef.com/users/singhprajjawal" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20My%20CodeChef%20Profile-brown?style=for-the-badge&logo=codechef&logoColor=white">
-  </a>
-</p>
-
-<p align="center">
-  ⭐ Competitive Programmer on CodeChef with strong problem-solving background and contest experience
-</p>
-
-
----
 
 ## 📊 GitHub Stats
 
