@@ -126,10 +126,15 @@ Token bucket based distributed rate limiter
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prajjawalsingh87&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajjawalsingh87&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prajjawalsingh87&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=prajjawalsingh87&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prajjawalsingh87&layout=compact&theme=radical)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prajjawalsingh87&theme=react-dark)
+
 
 ---
 
