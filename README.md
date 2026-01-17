@@ -102,33 +102,28 @@ Token bucket based distributed rate limiter
 
 ## 💻 Coding Profiles & Competitive Stats
 
-<!-- LeetCode + Codeforces cards -->
+## 💻 Coding Profiles & Competitive Stats
+
 <p align="center">
   <a href="https://leetcode.com/u/sprajjawalsingh/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/sprajjawalsingh?theme=dark&font=Baloo&ext=contest" height="180"/>
+    <img src="https://leetcard.jacoblin.cool/sprajjawalsingh?theme=dark&font=Baloo&ext=contest" height="170"/>
   </a>
 
-  &nbsp;&nbsp;&nbsp;
-
   <a href="https://codeforces.com/profile/singhprajjawal87" target="_blank">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=singhprajjawal87&theme=tokyonight" height="180"/>
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=singhprajjawal87&theme=tokyonight" height="170"/>
   </a>
 </p>
 
-<br/>
-
-<!-- CodeChef + AtCoder BIG badges centered -->
-<div align="center">
+<p align="center">
   <a href="https://www.codechef.com/users/singhprajjawal" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-1922%20Rating-brown?style=for-the-badge&logo=codechef&logoColor=white" height="65"/>
+    <img src="https://img.shields.io/badge/CodeChef-1922%20Rating-brown?style=for-the-badge&logo=codechef&logoColor=white"/>
   </a>
-
-  &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://atcoder.jp/users/PRAJJAWAL302050" target="_blank">
-    <img src="https://img.shields.io/badge/AtCoder-961%20Rating-blueviolet?style=for-the-badge" height="65"/>
+    <img src="https://img.shields.io/badge/AtCoder-961%20Rating-blueviolet?style=for-the-badge"/>
   </a>
-</div>
+</p>
+
 
 
 
