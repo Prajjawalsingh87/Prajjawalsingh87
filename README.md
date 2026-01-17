@@ -1,25 +1,37 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:0f2027,50:203a43,100:2c5364&text=Prajjawal%20Singh&fontSize=46&fontColor=ffffff&animation=fadeIn&desc=Backend%20Engineer%20%7C%20Distributed%20Systems%20%7C%20NIT%20Trichy%20%2725&descAlignY=68"/>
-</p>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=34&duration=3000&pause=500&color=38BDF8&center=true&vCenter=true&width=700&lines=Prajjawal+Singh;Backend+Engineer;Distributed+Systems+%26+Data+Engineering" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=16&duration=3000&pause=500&color=9CA3AF&center=true&vCenter=true&width=700&lines=Django+%7C+Kafka+%7C+ClickHouse+%7C+PostgreSQL+%7C+NIT+Trichy+%2725" />
+
+<br/><br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Kafka-black?logo=apachekafka&style=flat">
-  <img src="https://img.shields.io/badge/ClickHouse-yellow?style=flat">
-  <img src="https://img.shields.io/badge/Django-092E20?logo=django&style=flat">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&style=flat">
+  <img src="https://img.shields.io/badge/Kafka-black?logo=apachekafka&style=flat-square">
+  <img src="https://img.shields.io/badge/ClickHouse-yellow?style=flat-square">
+  <img src="https://img.shields.io/badge/Django-092E20?logo=django&style=flat-square">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&style=flat-square">
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/prajjawal-singh-1723621ab">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square">
   </a>
   <a href="https://leetcode.com/u/sprajjawalsingh/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black&style=flat">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black&style=flat-square">
   </a>
   <a href="https://codeforces.com/profile/singhprajjawal87">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?logo=codeforces&logoColor=white&style=flat">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?logo=codeforces&logoColor=white&style=flat-square">
   </a>
 </p>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=60&animation=fadeIn"/>
+
+</div>
 
 <hr>
 
