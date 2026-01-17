@@ -115,9 +115,10 @@ Token bucket based distributed rate limiter
     <img src="https://img.shields.io/badge/CodeChef-1922%20Rating-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
   </a>
 
-  <a href="https://atcoder.jp/users/PRAJJAWAL302050" target="_blank">
-    <img src="https://img.shields.io/badge/AtCoder-Profile-1f8acb?style=for-the-badge"/>
-  </a>
+ <a href="https://atcoder.jp/users/PRAJJAWAL302050" target="_blank">
+  <img src="https://img.shields.io/badge/AtCoder-961%20Rating-blue?style=for-the-badge"/>
+</a>
+
 </p>
 
 ## 📊 GitHub Stats
