@@ -100,7 +100,6 @@ Token bucket based distributed rate limiter
 
 ---
 
-## 💻 Coding Profiles & Competitive Stats
 
 ## 💻 Coding Profiles & Competitive Stats
 
