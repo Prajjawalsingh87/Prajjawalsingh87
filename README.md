@@ -150,7 +150,7 @@ Token bucket based distributed rate limiter
 ## 📫 Contact
 
 - LinkedIn: https://linkedin.com/in/prajjawal-singh-1723621ab  
-- Email: your_email@gmail.com  
+- Email: singhprajjawal87@gmail.com 
 
 ---
 
