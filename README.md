@@ -6,6 +6,7 @@
 
 <p>
   <a href="https://linkedin.com/in/prajjawal-singh-1723621ab"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://medium.com/@singhprajjawal87"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white" alt="Medium"/></a>
   <a href="mailto:singhprajjawal87@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://portfolio-ashy-three-70.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://leetcode.com/u/sprajjawalsingh/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
@@ -186,6 +187,7 @@ Also built: a **MERN Stack Project** (full stack).
 ## Contact
 
 - LinkedIn: https://linkedin.com/in/prajjawal-singh-1723621ab
+- Medium: https://medium.com/@singhprajjawal87
 - Email: singhprajjawal87@gmail.com
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:0f172a&height=100&section=footer" width="100%" alt=""/>
