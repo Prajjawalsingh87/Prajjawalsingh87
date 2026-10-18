@@ -40,6 +40,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
@@ -56,6 +57,8 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana"/>
 </p>
 
 ## Featured projects
@@ -104,6 +107,37 @@
     </td>
   </tr>
 </table>
+
+### Work / private projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Distributed Event Processing Platform</h4>
+      <p>High-throughput Kafka based pipeline for real-time processing</p>
+      <p><code>Kafka</code> <code>Django</code> <code>PostgreSQL</code> <code>Redis</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>Real-Time Analytics Engine</h4>
+      <p>ClickHouse powered analytics backend</p>
+      <p><code>ClickHouse</code> <code>FastAPI</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>College Name Matching System</h4>
+      <p>High accuracy fuzzy matching engine</p>
+      <p><code>Python</code> <code>Pandas</code> <code>RapidFuzz</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>Distributed Rate Limiter</h4>
+      <p>Token bucket based distributed rate limiter</p>
+      <p><code>Redis</code> <code>Lua</code> <code>Python</code></p>
+    </td>
+  </tr>
+</table>
+
+Also built: a **MERN Stack Project** (full stack).
 
 <details>
 <summary><b>More live builds</b></summary>
