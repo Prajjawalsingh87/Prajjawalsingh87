@@ -60,6 +60,7 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus"/>
   <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
 </p>
 
 ## Featured projects
@@ -74,37 +75,51 @@
     </td>
     <td width="50%" valign="top">
       <h3>SnapLink</h3>
-      <p>URL shortener using Base62 encoding, Redis-cached redirects and per-click analytics stored in PostgreSQL, served behind Nginx.</p>
-      <p><code>FastAPI</code> <code>PostgreSQL</code> <code>Redis</code> <code>Docker Compose</code> <code>Nginx</code></p>
-      <a href="https://url-shortner-1-xyqj.onrender.com">Live demo</a> · <a href="https://github.com/Prajjawalsingh87/URL_Shortner">Code</a>
+      <p>URL shortener using Base62 encoding, with custom aliases, expiry, QR codes, bulk shortening and click analytics (countries, devices, referrers). Redis-cached redirects; the live backend runs on Vercel serverless with Neon Postgres.</p>
+      <p><code>FastAPI</code> <code>PostgreSQL</code> <code>Redis</code> <code>Docker Compose</code> <code>Vercel</code> <code>Neon</code></p>
+      <a href="https://snaplink-ten-eosin.vercel.app">Live demo</a> · <a href="https://snaplink-api-six.vercel.app/docs">API docs</a> · <a href="https://github.com/Prajjawalsingh87/URL_Shortner">Code</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>Kubernetes Production Lab</h3>
-      <p>Frontend, FastAPI backend and PostgreSQL on a self-managed kubeadm cluster on EC2: Ingress, HPA, PV/PVC, PDBs, NetworkPolicy and node affinity.</p>
-      <p><code>Kubernetes</code> <code>AWS EC2</code> <code>Docker</code> <code>FastAPI</code> <code>PostgreSQL</code></p>
+      <p>Frontend, FastAPI backend and PostgreSQL on a self-managed kubeadm cluster on EC2: Ingress, HPA (2–10 backend pods via Metrics Server), Prometheus <code>/metrics</code>, PV/PVC, PDBs, NetworkPolicy and node affinity.</p>
+      <p><code>Kubernetes</code> <code>AWS EC2</code> <code>Docker</code> <code>FastAPI</code> <code>PostgreSQL</code> <code>Prometheus</code></p>
       <a href="https://github.com/Prajjawalsingh87/kubernetes-lab">Code</a>
     </td>
     <td width="50%" valign="top">
       <h3>File Agent</h3>
-      <p>Python CLI agent that uses a Groq-hosted LLM to understand a request, pick the right file tool and create, read or append files.</p>
-      <p><code>Python</code> <code>LLM tool calling</code> <code>Groq</code></p>
-      <a href="https://github.com/Prajjawalsingh87/FILE_AGENT">Code</a>
+      <p>LLM file agent (CLI + FastAPI) that uses a Groq-hosted model to pick the right tool and create, read, append or search files. Pure-Python BM25 full-text search and a chat UI that shows the tools the agent used.</p>
+      <p><code>Python</code> <code>FastAPI</code> <code>LLM tool calling</code> <code>Groq</code> <code>BM25</code></p>
+      <a href="https://file-agent.onrender.com">Live demo</a> · <a href="https://github.com/Prajjawalsingh87/FILE_AGENT">Code</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>FX Live · Currency Converter</h3>
-      <p>Converts between currencies with live exchange rates, one-click swap and a custom <code>useCurrencyInfo</code> hook.</p>
-      <p><code>React</code> <code>Tailwind CSS</code></p>
+      <p>Live conversion across 200+ currencies, crypto and metals, with a 7/30/90-day rate history chart, local rate alerts and typo-tolerant <kbd>Ctrl</kbd>+<kbd>K</kbd> currency search.</p>
+      <p><code>React</code> <code>Vite</code> <code>Tailwind CSS</code> <code>MiniSearch</code></p>
       <a href="https://real-time-currencyconverter.vercel.app">Live demo</a> · <a href="https://github.com/Prajjawalsingh87/Real-time-currencyconverter">Code</a>
     </td>
     <td width="50%" valign="top">
       <h3>Quiz Competition</h3>
-      <p>Quiz web app with quiz, history, friends, search, chat and profile pages.</p>
+      <p>Timed quiz game with solo play and rooms (join by code or link), streaks, answer review, a "review my mistakes" mode, history, friends and chat.</p>
       <p><code>React</code> <code>React Router</code> <code>Tailwind CSS</code> <code>Vite</code></p>
       <a href="https://quiz-competition-plum.vercel.app">Live demo</a> · <a href="https://github.com/Prajjawalsingh87/Quiz-Competition">Code</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>ScholarSpace</h3>
+      <p>Study hub for university students: subject-wise notes, PYQs, video lectures, courses, SGPA/CGPA calculators and fuzzy <kbd>Ctrl</kbd>+<kbd>K</kbd> search across every resource.</p>
+      <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>MiniSearch</code></p>
+      <a href="https://scholarspace-seven.vercel.app">Live demo</a> · <a href="https://github.com/Prajjawalsingh87/Scholarspace-main">Code</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Site Status</h3>
+      <p>Uptime monitor and status page for my live sites: a GitHub Actions job checks every 30 minutes, keeps 30 days of history, and opens/closes GitHub issues when a site goes down or recovers.</p>
+      <p><code>Python</code> <code>GitHub Actions</code> <code>GitHub Pages</code></p>
+      <a href="https://prajjawalsingh87.github.io/site-status/">Status page</a> · <a href="https://github.com/Prajjawalsingh87/site-status">Code</a>
     </td>
   </tr>
 </table>
@@ -147,9 +162,9 @@ Also built: a **MERN Stack Project** (full stack).
 | Project | What it does | Links |
 | --- | --- | --- |
 | Portfolio | Personal portfolio site (React + Vite) | [Live](https://portfolio-ashy-three-70.vercel.app/) · [Code](https://github.com/Prajjawalsingh87/portfolio) |
-| Password Generator | Random passwords with adjustable length, numbers, symbols and copy to clipboard | [Live](https://passwordgenerator-three-steel.vercel.app) · [Code](https://github.com/Prajjawalsingh87/passwordgenerator) |
-| Background Color Changer | RGB sliders, presets, random colors and a clickable color history | [Live](https://bacgroundcolorchnager.vercel.app) · [Code](https://github.com/Prajjawalsingh87/bacgroundcolorchnager) |
-| TODO | To-do list app (React + Vite) | [Live](https://todo-chi-vert.vercel.app) · [Code](https://github.com/Prajjawalsingh87/TODO) |
+| Password Generator | Cryptographically secure passwords and passphrases with a strength meter and one-click copy | [Live](https://passwordgenerator-three-steel.vercel.app) · [Code](https://github.com/Prajjawalsingh87/passwordgenerator) |
+| Color Playground | RGB/HEX color picker with palettes, a WCAG contrast checker and one-click copy | [Live](https://bacgroundcolorchnager.vercel.app) · [Code](https://github.com/Prajjawalsingh87/bacgroundcolorchnager) |
+| TODO | Todo app with filters, inline editing, due dates, priorities and localStorage | [Live](https://todo-chi-vert.vercel.app) · [Code](https://github.com/Prajjawalsingh87/TODO) |
 
 </details>
 
@@ -157,7 +172,7 @@ Also built: a **MERN Stack Project** (full stack).
 
 | Area | What I'm working on |
 | --- | --- |
-| DevOps & Cloud | [devops-roadmap](https://github.com/Prajjawalsingh87/devops-roadmap): learning in public, starting with AWS IAM. [kubernetes-lab](https://github.com/Prajjawalsingh87/kubernetes-lab): running a production-style cluster by hand |
+| DevOps & Cloud | [devops-roadmap](https://github.com/Prajjawalsingh87/devops-roadmap): learning in public, starting with AWS IAM. [kubernetes-lab](https://github.com/Prajjawalsingh87/kubernetes-lab): running a production-style cluster by hand, with metrics and HPA autoscaling. [site-status](https://github.com/Prajjawalsingh87/site-status): uptime monitoring with GitHub Actions |
 | System design | [system_design](https://github.com/Prajjawalsingh87/system_design) and [lld-learning](https://github.com/Prajjawalsingh87/lld-learning): low-level and high-level design, design patterns and concurrency in C++ |
 | DSA in C++ | [segment-treeITMO-solutions](https://github.com/Prajjawalsingh87/segment-treeITMO-solutions): ITMO Academy segment tree course, lazy propagation and advanced techniques |
 
